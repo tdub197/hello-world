@@ -1,9 +1,9 @@
 # hello-world
 This should be fun.
 
-Roses are red,
-Violets are blue,
+> Roses are red, /n
+> Violets are blue, /n
 
-Unexpected '}' 
-on line 32.
+> Unexpected '}' /n 
+> on line 32.
 
