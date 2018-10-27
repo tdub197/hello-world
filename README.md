@@ -2,8 +2,8 @@
 This should be fun.
 
 > Roses are red,\
-> Violets are blue,\
+> Violets are blue,
 
 > Unexpected '}'\
-> on line 32.\
+> on line 32.
 
